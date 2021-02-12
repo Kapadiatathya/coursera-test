@@ -1,0 +1,68 @@
+body{
+	font-family: Georgia, serif;;
+	background-color: white;
+}
+
+#header-nav{
+	font-family: Georgia, serif;
+	background-color: #808080;
+	border-radius: 0;
+	border-color: black;
+}
+
+#collapsable-nav{
+	background-color: default;
+	padding-top: 0px;
+}
+
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+	border-color: black;
+} 
+
+h2{
+	background-color: #808080;
+    width: 200px;
+	margin:10px 15px 10px 0px;
+}
+
+.container{
+	margin-left: 0px;
+}
+
+.ch{
+	background-color: white;
+	text-align: center;
+	margin: 10px 15px 0px;
+	font-size: 100%;
+}
+
+.title{
+	font-size: 300%;
+}
+.chicken{
+	padding: 0px 0px 5px 10px;
+}
+
+.heading{
+	text-align: center;
+}
+
+.tang{
+	background-color: #D3D3D3;
+	margin:15px 15px 15px 0px;
+	overflow: none;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.op{
+	font-size: 200%;
+	text-align: center;
+}
+
+#nav-list{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	background-color: white;
+}
